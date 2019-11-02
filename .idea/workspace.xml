@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f3b6ead-a1f2-461d-909a-4812922517ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T3JpAfwa8mbUYjm7Kp3kIxUsEk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TddJunitTest" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dalircode.tddjunit.modifiedtest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AirportTest.testEconomyFlightVipPassenger">
+    <configuration name="AirportTest.testAirport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModifiedJunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dalircode.tddjunit.modifiedtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dalircode.tddjunit.modifiedtest" />
+      <option name="MAIN_CLASS_NAME" value="com.dalircode.tddjunit.modifiedtest.AirportTest" />
+      <option name="METHOD_NAME" value="testAirport" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirportTest.testBusinessFlightVipPassenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModifiedJunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dalircode.tddjunit.modifiedtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dalircode.tddjunit.modifiedtest" />
+      <option name="MAIN_CLASS_NAME" value="com.dalircode.tddjunit.modifiedtest.AirportTest" />
+      <option name="METHOD_NAME" value="testBusinessFlightVipPassenger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirportTest.testEconomyFlightUsualPassenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModifiedJunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dalircode.tddjunit.modifiedtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dalircode.tddjunit.modifiedtest" />
+      <option name="MAIN_CLASS_NAME" value="com.dalircode.tddjunit.modifiedtest.AirportTest" />
+      <option name="METHOD_NAME" value="testEconomyFlightUsualPassenger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirportTest.testEconomyFlightVipPassenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModifiedJunitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dalircode.tddjunit.modifiedtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dalircode.tddjunit.modifiedtest" />
+      <option name="MAIN_CLASS_NAME" value="com.dalircode.tddjunit.modifiedtest.AirportTest" />
+      <option name="METHOD_NAME" value="testEconomyFlightVipPassenger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AirportTest.testEconomyFlightVipPassenger" />
+        <item itemvalue="JUnit.AirportTest.testBusinessFlightVipPassenger" />
+        <item itemvalue="JUnit.AirportTest.testEconomyFlightUsualPassenger" />
+        <item itemvalue="JUnit.AirportTest.testAirport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f3b6ead-a1f2-461d-909a-4812922517ee" name="Default Changelist" comment="" />
+      <created>1572683025127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572683025127</updated>
+      <workItem from="1572683027738" duration="1487000" />
+      <workItem from="1572687540046" duration="1072000" />
+      <workItem from="1572666082393" duration="88000" />
+      <workItem from="1572666302173" duration="248000" />
+      <workItem from="1572677647473" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
